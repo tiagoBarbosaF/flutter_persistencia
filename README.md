@@ -79,6 +79,8 @@
 
 ## App myBank
 
+<p float="left">
 <img src="assets/img/screen01.png" width="200">
 <img src="assets/img/screen02.png" width="200">
 <img src="assets/img/screen03.png" width="200">
+</p>
